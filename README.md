@@ -1,1 +1,1 @@
-"# fermentador" 
+En este repositorio contiene el codigo de funcionamiento de una fermentadora automatica de cacao
